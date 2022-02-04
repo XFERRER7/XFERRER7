@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá. Eu sou o Alexandre Talles
 
-<!--
-**XFERRER7/XFERRER7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente estou estudando HTML e CSS.
+- Estudei Java por 1 ano e pretendo aprender mais sobre a linguagem.
+- Um dos meus objetivos é me tornar um desenvolvedor fullstack.
+- Utilizo Visual Studio Code e Eclipse para desenvolver.
+- Gosto muito da área de programação.
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XFERRER7&show_icons=true&theme=synthwave)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFERRER7&layout=compact"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"> <br>
+<img aling="center" width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img aling="center" width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+<img aling="center" width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img aling="center" width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div><br>
+<a href="https://www.linkedin.com/in/alexandre-talles-b662a020b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="alexandretalles777@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>  
+</div>
