@@ -6,7 +6,7 @@
 - Utilizo Visual Studio Code e Eclipse para desenvolver.
 - Gosto muito da área de programação.
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XFERRER7&show_icons=true&theme=synthwave)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XFERRER7&show_icons=true&theme=synthwave"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFERRER7&layout=compact"/>
 </div>
 
