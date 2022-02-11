@@ -1,4 +1,4 @@
-### Olá. Eu sou o Alexandre Talles
+### Olá, eu sou o Alexandre Talles
 
 - Atualmente estou estudando HTML e CSS.
 - Estudei Java por 1 ano e pretendo aprender mais sobre a linguagem.
