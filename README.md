@@ -1,8 +1,8 @@
 ### Olá, eu sou o Alexandre Talles
 
-- Atualmente estou estudando HTML e CSS.
-- Estudei Java por 1 ano e pretendo aprender mais sobre a linguagem.
-- Um dos meus objetivos é me tornar um desenvolvedor fullstack.
+- Atualmente estou estudando Next JS.
+- Experiência de 1 ano com React JS.
+- Um dos meus objetivos é me tornar um especialista front-end web.
 - Utilizo Visual Studio Code e Eclipse para desenvolver.
 - Gosto muito da área de programação.
 <div>
