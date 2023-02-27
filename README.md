@@ -1,4 +1,4 @@
-### Olá, eu sou o Alexandre Talles
+### Alexandre Talles, Desenvolvedor web
 
 - Atualmente estou estudando Next JS.
 - Experiência de 1 ano com React JS.
