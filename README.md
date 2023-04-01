@@ -1,10 +1,6 @@
 ### Alexandre Talles, Desenvolvedor web
-
-- Atualmente estou estudando Next JS.
+- React Js - Next Js - Typescript - Node Js - Java
 - Experiência de 1 ano com React JS.
-- Um dos meus objetivos é me tornar um especialista front-end web.
-- Utilizo Visual Studio Code e Eclipse para desenvolver.
-- Gosto muito da área de programação.
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XFERRER7&show_icons=true&theme=synthwave"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFERRER7&layout=compact"/>
