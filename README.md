@@ -1,6 +1,6 @@
 ### Alexandre Talles, Desenvolvedor web
 - React Js - Next Js - Typescript - Node Js - Java
-- Experiência de 1 ano com React JS.
+- 2 anos de experiência com desenvolvimento de software
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XFERRER7&show_icons=true&theme=synthwave"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFERRER7&layout=compact"/>
